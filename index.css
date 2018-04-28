@@ -1,0 +1,126 @@
+p{
+  font-family: Helvetica; 
+  font-family: 40px;
+  color: #D1A683;
+}
+
+p2{
+  font-size: 40px;
+  text-align: center;
+  color: #D1A683;
+}
+
+
+
+
+body {
+    background-color: #1A2c56;
+}
+
+h1{
+  font-size: 60px;
+  color: #D1A683;
+  text-align: center;
+}
+
+h2{
+  font-size: 20px;
+  color: #D1A683;
+  text-align: center;
+  
+}
+
+a {
+    color: #D1A683;
+    background-color: white;
+   border-radius: 8px;
+   text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 14px 20px;
+    border: 1px gold;
+    display: block;
+}
+
+a:hover {
+    cursor: pointer;
+  position: relative;
+  transition: 0.5s;
+  text-align: center;
+}
+
+
+
+div {
+  color: #D1A683;
+}
+
+
+img {
+    float: right;
+    width: 350px;
+}
+
+.floating-box{
+    float: left;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+
+p3{
+  font-size: 20px;
+  color: #D1A683;
+}
+
+
+a2{
+  float: center;
+  color: #D1A683;
+    background-color: white;
+   border-radius: 8px;
+   text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 14px 20px;
+    border: 1px gold;
+}
+
+
+.grid {
+  display: grid;
+  border: 2px;
+  height: 500px;
+  width:400px;
+  grid-gap: 40px 130px;
+  grid-template: repeat(3, 1fr) / 3fr 87.5% 1fr;
+}
+
+.box {
+  background-color: beige;
+  color: black;
+  border-radius: 5px;
+  border: 3px #1A2c56;
+}
+
+
+p5{
+  float: right;
+  font-size: 25px;
+}
+
+h3{
+  font-size: 32px;
+}
+
+p4{
+  font-size: 25px;
+  color: #D1A683;
+}
+
+h4{
+  font-size: 40px;
+  float: center;
+}
